@@ -1,6 +1,10 @@
 # ax25systemd
 Losely based on https://github.com/la5nta/pat/tree/master/share
 
+## Installation
+Pretty simple, really:
+    $ sudo make install
+
 ## Original License:
   The MIT License (MIT)
   
